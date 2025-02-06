@@ -2,7 +2,7 @@
 
 Este é um projeto simples de uma API para consultar endereços a partir de um **CEP** utilizando a API pública **ViaCEP**. A aplicação foi desenvolvida em **Node.js** com **Express** e estruturada para ser facilmente compreendida e escalável.
 
-![Imagem do Projeto](https://via.placeholder.com/600x400) <!-- Substitua pelo link da sua imagem -->
+![Image](https://github.com/user-attachments/assets/90965c07-7e4d-477a-9969-2c19779a8c2c)
 
 ## Funcionalidades
 
