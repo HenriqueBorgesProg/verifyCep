@@ -27,3 +27,4 @@ Este é um projeto simples de uma API para consultar endereços a partir de um *
    npm start
  4. Acesse a API via navegador ou via ferramentas como Postman:
    http://localhost:3000/cep/{seu-cep}
+5. Para utilizar troque o {cep} pelo número que você gostaria de checar.
